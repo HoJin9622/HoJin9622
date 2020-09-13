@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hojin9622&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on D&D Traview
-- 🌱 I’m currently learning React, JavaScript
+- 🌱 I’m currently learning React, Django
 - 📫 How to reach me: kiss0104040@gmail.com
 
 [![Tech Blog Badge](https://img.shields.io/badge/TechBlog-black?logo=github)](https://hojin9622.github.io)
