@@ -3,7 +3,7 @@
 [![HoJin9622's github stats](https://github-readme-stats.vercel.app/api?username=hojin9622&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hojin9622&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🌱 I’m currently learning React, Django
+- 🌱 I’m currently learning React, Node.js
 - 📫 How to reach me: kiss0104040@gmail.com
 
 [![Tech Blog Badge](https://img.shields.io/badge/TechBlog-black?logo=github)](https://hojin9622.github.io)
