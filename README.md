@@ -45,6 +45,9 @@
  <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHoJin9622&count_bg=%2379C83D&title_bg=%23555555&title=hits&edge_flat=false" />
 </p>
 
+[![HoJin9622's github stats](https://github-readme-stats.vercel.app/api?username=hojin9622&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hojin9622&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- (https://hits.seeyoufarm.com) -->
 
 
@@ -67,6 +70,5 @@ Here are some ideas to get you started:
 -->
 
 <!--
-[![HoJin9622's github stats](https://github-readme-stats.vercel.app/api?username=hojin9622&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hojin9622&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
