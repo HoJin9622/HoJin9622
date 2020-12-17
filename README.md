@@ -14,7 +14,7 @@
 <br />
 <br />
 
-<p align="center">한번이라도 써본적이 있는 기술입니다.</p>
+<p align="center">한번이라도 적이 있는 기술입니다.</p>
 
 <p align="center">
  <img align="center" src="https://img.shields.io/badge/C-a8b9cc?logo=C&logoColor=white" />
