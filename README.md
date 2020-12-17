@@ -41,7 +41,7 @@
 <h3 align="center">🎈 Info 🎈</h3>
 
 <p align="center">
- <img align="center" src="https://img.shields.io/badge/Tech%20Blog-black?logo=github)](https://hojin9622.github.io" />
+ <a href="https://velog.io/@hojin9622"><img align="center" src="https://img.shields.io/badge/Tech%20Blog-181717?logo=GitHub&logoColor=white" /></a>
  <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHoJin9622&count_bg=%2379C83D&title_bg=%23555555&title=hits&edge_flat=false" />
 </p>
 
