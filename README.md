@@ -3,13 +3,11 @@
 <p align="center">업무 중 사용했던 기술입니다.</p>
 
 <p align="center">
-![](https://img.shields.io/badge/-JavaScript-f7df1e?logo=JavaScript&logoColor=white)</p>
-![](https://img.shields.io/badge/-React-61dafb?logo=React&logoColor=white)
-![](https://img.shields.io/badge/-ReactNative-blue)
+![](https://img.shields.io/badge/-JavaScript-f7df1e?logo=JavaScript&logoColor=white) ![](https://img.shields.io/badge/-React-61dafb?logo=React&logoColor=white) ![](https://img.shields.io/badge/-ReactNative-blue)
 </p>
 
 
-Info
+<h3 align="center">Info</h3>
 
 [![Tech Blog Badge](https://img.shields.io/badge/TechBlog-black?logo=github)](https://hojin9622.github.io)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHoJin9622&count_bg=%2379C83D&title_bg=%23555555&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
