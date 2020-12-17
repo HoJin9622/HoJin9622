@@ -2,10 +2,28 @@
 
 <p align="center">업무 중 사용했던 기술입니다.</p>
 
-<p align="center">
-![](https://img.shields.io/badge/-JavaScript-f7df1e?logo=JavaScript&logoColor=white) ![](https://img.shields.io/badge/-React-61dafb?logo=React&logoColor=white) ![](https://img.shields.io/badge/-ReactNative-blue)
-</p>
+![](https://img.shields.io/badge/HTML5-e34f26?logo=HTML5&logoColor=white)
+![](https://img.shields.io/badge/CSS-1572b6?logo=CSS3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-f7df1e?logo=JavaScript&logoColor=white)
+![](https://img.shields.io/badge/React-61dafb?logo=React&logoColor=white)
+![](https://img.shields.io/badge/ReactNative-blue)
+![](https://img.shields.io/badge/AWS-232f3e?logo=Amazon%20AWS&logoColor=white)
 
+<p align="center">한번이라도 써본적이 있는 기술입니다.</p>
+
+![](https://img.shields.io/badge/C-a8b9cc?logo=C&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599c?logo=C++&logoColor=white)
+![](https://img.shields.io/badge/C%23-239120?logo=C%20Sharp&logoColor=white)
+![](https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white)
+![](https://img.shields.io/badge/Python-3776ab?logo=Python&logoColor=white)
+![](https://img.shields.io/badge/Kotlin-0095d5?logo=Kotlin&logoColor=white)
+![](https://img.shields.io/badge/Express-f7df1e)
+![](https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white)
+![](https://img.shields.io/badge/Nextjs-000000?logo=Next.js&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-47a248?logo=MongoDB&logoColor=white)
+![](https://img.shields.io/badge/Oracle-f80000?logo=Oracle&logoColor=white)
+![](https://img.shields.io/badge/Nginx-269539?logo=NGINX&logoColor=white)
+![](https://img.shields.io/badge/Firebase-ffca28?logo=Firebase&logoColor=white)
 
 <h3 align="center">Info</h3>
 
