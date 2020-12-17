@@ -9,6 +9,9 @@
 ![](https://img.shields.io/badge/ReactNative-blue)
 ![](https://img.shields.io/badge/AWS-232f3e?logo=Amazon%20AWS&logoColor=white)
 
+<br />
+<br />
+
 <p align="center">한번이라도 써본적이 있는 기술입니다.</p>
 
 ![](https://img.shields.io/badge/C-a8b9cc?logo=C&logoColor=white)
@@ -25,14 +28,13 @@
 ![](https://img.shields.io/badge/Nginx-269539?logo=NGINX&logoColor=white)
 ![](https://img.shields.io/badge/Firebase-ffca28?logo=Firebase&logoColor=white)
 
-
-
-
+<br />
+<br />
 
 <h3 align="center">🎈 Info 🎈</h3>
 
-[![Tech Blog Badge](https://img.shields.io/badge/TechBlog-black?logo=github)](https://hojin9622.github.io)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHoJin9622&count_bg=%2379C83D&title_bg=%23555555&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![](https://img.shields.io/badge/Tech%20Blog-black?logo=github)](https://hojin9622.github.io)
+[![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHoJin9622&count_bg=%2379C83D&title_bg=%23555555&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
