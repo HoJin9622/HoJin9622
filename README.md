@@ -16,19 +16,22 @@
 
 <p align="center">한번이라도 써본적이 있는 기술입니다.</p>
 
-![](https://img.shields.io/badge/C-a8b9cc?logo=C&logoColor=white)
-![](https://img.shields.io/badge/C%2B%2B-00599c?logo=C++&logoColor=white)
-![](https://img.shields.io/badge/C%23-239120?logo=C%20Sharp&logoColor=white)
-![](https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white)
-![](https://img.shields.io/badge/Python-3776ab?logo=Python&logoColor=white)
-![](https://img.shields.io/badge/Kotlin-0095d5?logo=Kotlin&logoColor=white)
-![](https://img.shields.io/badge/Express-f7df1e)
-![](https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white)
-![](https://img.shields.io/badge/Nextjs-000000?logo=Next.js&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-47a248?logo=MongoDB&logoColor=white)
-![](https://img.shields.io/badge/Oracle-f80000?logo=Oracle&logoColor=white)
-![](https://img.shields.io/badge/Nginx-269539?logo=NGINX&logoColor=white)
-![](https://img.shields.io/badge/Firebase-ffca28?logo=Firebase&logoColor=white)
+<p align="center">
+ <img align="center" src="https://img.shields.io/badge/C-a8b9cc?logo=C&logoColor=white" />
+ <img align="center" src="https://img.shields.io/badge/C%2B%2B-00599c?logo=C++&logoColor=white" />
+ <img align="center" src="https://img.shields.io/badge/C%23-239120?logo=C%20Sharp&logoColor=white" />
+ <img align="center" src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white" />
+ <img align="center" src="https://img.shields.io/badge/Python-3776ab?logo=Python&logoColor=white" />
+ <img align="center" src="https://img.shields.io/badge/Kotlin-0095d5?logo=Kotlin&logoColor=white" />
+ <img align="center" src="https://img.shields.io/badge/Express-f7df1e" />  
+ <img align="center" src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white" />
+ <img align="center" src="https://img.shields.io/badge/Nextjs-000000?logo=Next.js&logoColor=white" />
+ <img align="center" src="https://img.shields.io/badge/MongoDB-47a248?logo=MongoDB&logoColor=white" />
+ <img align="center" src="https://img.shields.io/badge/Oracle-f80000?logo=Oracle&logoColor=white" />
+ <img align="center" src="https://img.shields.io/badge/Nginx-269539?logo=NGINX&logoColor=white" />
+ <img align="center" src="https://img.shields.io/badge/Firebase-ffca28?logo=Firebase&logoColor=white" />
+</p>
+
 
 <br />
 <br />
