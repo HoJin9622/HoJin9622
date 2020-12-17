@@ -2,9 +2,11 @@
 
 <p align="center">업무 중 사용했던 기술입니다.</p>
 
-<p align="center">![JavaScript Badge](https://img.shields.io/badge/-JavaScript-f7df1e?logo=JavaScript&logoColor=white)</p>
-  ![React Badge](https://img.shields.io/badge/-React-61dafb?logo=React&logoColor=white)
-  ![React Native Badge](https://img.shields.io/badge/-ReactNative-blue)
+<p align="center">
+![](https://img.shields.io/badge/-JavaScript-f7df1e?logo=JavaScript&logoColor=white)</p>
+![](https://img.shields.io/badge/-React-61dafb?logo=React&logoColor=white)
+![](https://img.shields.io/badge/-ReactNative-blue)
+</p>
 
 
 Info
