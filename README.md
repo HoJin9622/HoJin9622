@@ -7,7 +7,7 @@
  <img align="center" src="https://img.shields.io/badge/CSS-1572b6?logo=CSS3&logoColor=white" />
  <img align="center" src="https://img.shields.io/badge/JavaScript-f7df1e?logo=JavaScript&logoColor=white" />
  <img align="center" src="https://img.shields.io/badge/React-61dafb?logo=React&logoColor=white" />
- <img align="center" src="https://img.shields.io/badge/ReactNative-blue" />
+ <img align="center" src="https://img.shields.io/badge/ReactNative-blue?logo=React&logoColor=white" />
  <img align="center" src="https://img.shields.io/badge/AWS-232f3e?logo=Amazon%20AWS&logoColor=white" />
 </p>
 
