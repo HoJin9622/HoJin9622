@@ -1,6 +1,6 @@
 <h3 align="center">🛠 Skill 🛠</h3>
 
-업무 중 사용했던 기술입니다.
+<p align="center">업무 중 사용했던 기술입니다.</p>
 
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-f7df1e?logo=JavaScript&logoColor=white)
 ![React Badge](https://img.shields.io/badge/-React-61dafb?logo=React&logoColor=white)
