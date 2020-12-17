@@ -2,9 +2,9 @@
 
 업무 중 사용했던 기술입니다.
 
-![React Badge](https://img.shields.io/badge/-React-blue?logo=React)
+![React Badge](https://img.shields.io/badge/-React-61dafb?logo=React&logoColor=white)
 ![React Native Badge](https://img.shields.io/badge/-ReactNative-blue)
-![JavaScript Badge](https://img.shields.io/badge/-JavaScript?logo=JavaScript)
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-f7df1e?logo=JavaScript&logoColor=white)
 
 
 [![Tech Blog Badge](https://img.shields.io/badge/TechBlog-black?logo=github)](https://hojin9622.github.io)
