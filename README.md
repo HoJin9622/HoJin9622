@@ -24,6 +24,7 @@
  <img align="center" src="https://img.shields.io/badge/Python-3776ab?logo=Python&logoColor=white" />
  <img align="center" src="https://img.shields.io/badge/Kotlin-0095d5?logo=Kotlin&logoColor=white" />
  <img align="center" src="https://img.shields.io/badge/Express-f7df1e" /> 
+ <img align="center" src="https://img.shields.io/badge/NestJS-E0234E?logo=NestJS&logoColor=white" />
 </p>
 <p align="center">
  <img align="center" src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white" />
