@@ -21,12 +21,13 @@
  <img align="center" src="https://img.shields.io/badge/C%2B%2B-00599c?logo=C++&logoColor=white" />
  <img align="center" src="https://img.shields.io/badge/C%23-239120?logo=C%20Sharp&logoColor=white" />
  <img align="center" src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white" />
+ <img align="center" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white" />
  <img align="center" src="https://img.shields.io/badge/Python-3776ab?logo=Python&logoColor=white" />
  <img align="center" src="https://img.shields.io/badge/Kotlin-0095d5?logo=Kotlin&logoColor=white" />
  <img align="center" src="https://img.shields.io/badge/Express-f7df1e" /> 
- <img align="center" src="https://img.shields.io/badge/NestJS-E0234E?logo=NestJS&logoColor=white" />
 </p>
 <p align="center">
+ <img align="center" src="https://img.shields.io/badge/NestJS-E0234E?logo=NestJS&logoColor=white" />
  <img align="center" src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white" />
  <img align="center" src="https://img.shields.io/badge/Nextjs-000000?logo=Next.js&logoColor=white" />
  <img align="center" src="https://img.shields.io/badge/MongoDB-47a248?logo=MongoDB&logoColor=white" />
