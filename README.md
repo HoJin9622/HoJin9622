@@ -9,6 +9,7 @@
  <img align="center" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white" />
  <img align="center" src="https://img.shields.io/badge/React-61dafb?logo=React&logoColor=white" />
  <img align="center" src="https://img.shields.io/badge/ReactNative-blue?logo=React&logoColor=white" />
+ <img align="center" src="https://img.shields.io/badge/Express-f7df1e" />
  <img align="center" src="https://img.shields.io/badge/AWS-232f3e?logo=Amazon%20AWS&logoColor=white" />
 </p>
 
@@ -23,8 +24,7 @@
  <img align="center" src="https://img.shields.io/badge/C%23-239120?logo=C%20Sharp&logoColor=white" />
  <img align="center" src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white" />
  <img align="center" src="https://img.shields.io/badge/Python-3776ab?logo=Python&logoColor=white" />
- <img align="center" src="https://img.shields.io/badge/Kotlin-0095d5?logo=Kotlin&logoColor=white" />
- <img align="center" src="https://img.shields.io/badge/Express-f7df1e" /> 
+ <img align="center" src="https://img.shields.io/badge/Kotlin-0095d5?logo=Kotlin&logoColor=white" /> 
 </p>
 <p align="center">
  <img align="center" src="https://img.shields.io/badge/NestJS-E0234E?logo=NestJS&logoColor=white" />
