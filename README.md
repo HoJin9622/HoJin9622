@@ -9,7 +9,10 @@
  <img align="center" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white" />
  <img align="center" src="https://img.shields.io/badge/React-61dafb?logo=React&logoColor=white" />
  <img align="center" src="https://img.shields.io/badge/ReactNative-blue?logo=React&logoColor=white" />
+</p>
+<p align="center">
  <img align="center" src="https://img.shields.io/badge/Express-f7df1e" />
+ <img align="center" src="https://img.shields.io/badge/MongoDB-47a248?logo=MongoDB&logoColor=white" />
  <img align="center" src="https://img.shields.io/badge/AWS-232f3e?logo=Amazon%20AWS&logoColor=white" />
 </p>
 
@@ -30,7 +33,6 @@
  <img align="center" src="https://img.shields.io/badge/NestJS-E0234E?logo=NestJS&logoColor=white" />
  <img align="center" src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white" />
  <img align="center" src="https://img.shields.io/badge/Nextjs-000000?logo=Next.js&logoColor=white" />
- <img align="center" src="https://img.shields.io/badge/MongoDB-47a248?logo=MongoDB&logoColor=white" />
  <img align="center" src="https://img.shields.io/badge/Oracle-f80000?logo=Oracle&logoColor=white" />
  <img align="center" src="https://img.shields.io/badge/Nginx-269539?logo=NGINX&logoColor=white" />
  <img align="center" src="https://img.shields.io/badge/Firebase-ffca28?logo=Firebase&logoColor=white" />
