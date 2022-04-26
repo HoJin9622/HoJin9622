@@ -1,78 +1,49 @@
-<h3 align="center">🛠 Skill 🛠</h3>
+Hi 👋 My name is HoJin
+======================
 
-<p align="center">업무 중 사용했던 기술입니다.</p>
+React and React Native Developer
+--------------------------------
 
-<p align="center">
- <img align="center" src="https://img.shields.io/badge/HTML5-e34f26?logo=HTML5&logoColor=white" />
- <img align="center" src="https://img.shields.io/badge/CSS-1572b6?logo=CSS3&logoColor=white" />
- <img align="center" src="https://img.shields.io/badge/JavaScript-f7df1e?logo=JavaScript&logoColor=white" />
- <img align="center" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white" />
-</p>
-<p align="center">
- <img align="center" src="https://img.shields.io/badge/React-61dafb?logo=React&logoColor=white" />
- <img align="center" src="https://img.shields.io/badge/ReactNative-blue?logo=React&logoColor=white" />
- <img align="center" src="https://img.shields.io/badge/Express-f7df1e" />
- <img align="center" src="https://img.shields.io/badge/MongoDB-47a248?logo=MongoDB&logoColor=white" />
- <img align="center" src="https://img.shields.io/badge/AWS-232f3e?logo=Amazon%20AWS&logoColor=white" />
-</p>
+* 🌍  I'm based in Busan
+* ✉️  You can contact me at [kiss0104040@gmail.com](mailto:kiss0104040@gmail.com)
+* 🚀  I'm currently working on [어니언팜](http://onionsfarm.com/)
+* 🧠  I'm learning Next.js
 
-<br />
-<br />
+### Skills
 
-<p align="center">한번이라도 사용해본적이 있는 기술입니다.</p>
-
-<p align="center">
- <img align="center" src="https://img.shields.io/badge/C-a8b9cc?logo=C&logoColor=white" />
- <img align="center" src="https://img.shields.io/badge/C%2B%2B-00599c?logo=C++&logoColor=white" />
- <img align="center" src="https://img.shields.io/badge/C%23-239120?logo=C%20Sharp&logoColor=white" />
- <img align="center" src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white" />
- <img align="center" src="https://img.shields.io/badge/Python-3776ab?logo=Python&logoColor=white" />
- <img align="center" src="https://img.shields.io/badge/Kotlin-0095d5?logo=Kotlin&logoColor=white" /> 
-</p>
-<p align="center">
- <img align="center" src="https://img.shields.io/badge/NestJS-E0234E?logo=NestJS&logoColor=white" />
- <img align="center" src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white" />
- <img align="center" src="https://img.shields.io/badge/Nextjs-000000?logo=Next.js&logoColor=white" />
- <img align="center" src="https://img.shields.io/badge/Oracle-f80000?logo=Oracle&logoColor=white" />
- <img align="center" src="https://img.shields.io/badge/Nginx-269539?logo=NGINX&logoColor=white" />
- <img align="center" src="https://img.shields.io/badge/Firebase-ffca28?logo=Firebase&logoColor=white" />
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
 
-<br />
-<br />
+### Socials
 
-<h3 align="center">🎈 Info 🎈</h3>
+<p align="left"> <a href="https://www.github.com/HoJin9622" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/hojin9622" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/호진-이-910a65234" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<p align="center">
- <a href="https://velog.io/@hojin9622"><img align="center" src="https://img.shields.io/badge/Tech%20Blog-181717?logo=GitHub&logoColor=white" /></a>
- <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHoJin9622&count_bg=%2379C83D&title_bg=%23555555&title=hits&edge_flat=false" />
-</p>
+### Badges
 
-[![HoJin9622's github stats](https://github-readme-stats.vercel.app/api?username=hojin9622&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hojin9622&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<b>My GitHub Stats</b>
 
-<!-- (https://hits.seeyoufarm.com) -->
+<a href="http://www.github.com/HoJin9622"><img src="https://github-readme-stats.vercel.app/api?username=HoJin9622&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=a855f7&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="HoJin9622's GitHub stats" /></a>
 
+<a href="http://www.github.com/HoJin9622"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HoJin9622&stroke=a855f7&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=a855f7&currStreakLabel=a855f7&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
 
-
-
-
-
-
-
-
-<!--
-**HoJin9622/HoJin9622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on D&D Traview
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-
--->
+<a href="http://www.github.com/HoJin9622"><img src="https://activity-graph.herokuapp.com/graph?username=HoJin9622&bg_color=1c1917&color=a855f7&line=a855f7&point=a855f7&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
