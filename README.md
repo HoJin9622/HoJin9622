@@ -47,3 +47,5 @@ React and React Native Developer
 <a href="http://www.github.com/HoJin9622"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HoJin9622&stroke=a855f7&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=a855f7&currStreakLabel=a855f7&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
 
 <a href="http://www.github.com/HoJin9622"><img src="https://activity-graph.herokuapp.com/graph?username=HoJin9622&bg_color=1c1917&color=a855f7&line=a855f7&point=a855f7&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+![HoJin9622 GitHub stats](https://server.dooboo.io/github-stats/HoJin9622)
