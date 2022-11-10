@@ -6,7 +6,6 @@ React and React Native Developer
 
 * 🌍  I'm based in Busan
 * ✉️  You can contact me at [kiss0104040@gmail.com](mailto:kiss0104040@gmail.com)
-* 🚀  I'm currently working on [어니언팜](http://onionsfarm.com/)
 * 🧠  I'm learning Next.js
 
 ### Skills
