@@ -20,13 +20,15 @@ I focus on solving system-level problems beyond feature implementation — from 
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 Check out my latest posts at [hojinlee.dev](https://www.hojinlee.dev)
+
 <!-- BLOG-POST-LIST:END -->
 
 ## Get in Touch
 
 [![Blog](https://img.shields.io/badge/Blog-hojinlee.dev-000000?style=flat-square)](https://www.hojinlee.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-호진_이-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/호진-이-910a65234)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-호진_이-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hojin-lee-910a65234)
 [![GitHub](https://img.shields.io/badge/GitHub-HoJin9622-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HoJin9622)
 
 ---
